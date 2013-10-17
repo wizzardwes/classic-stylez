@@ -1,0 +1,9 @@
+a {
+	background: url('note.png');
+    padding: 5px;
+    display: block;
+}
+
+nav {
+    text-align: center;
+}
