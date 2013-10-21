@@ -1,9 +1,17 @@
 a {
-	background: url('note.png');
-    padding: 5px;
+    background: url('https://lh4.ggpht.com/8bASaDTeE5qWQjVoA1FnUExPGLJ4fblK4AIZg1tB660RVD-my3HnTBSJpV1HzTjIowE=w300');
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    padding: 100px 0 0 100px;
     display: block;
+    margin: 0 auto;
+    float: left;
 }
 
 nav {
-    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
 }
+
